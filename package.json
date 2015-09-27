@@ -1,0 +1,15 @@
+{
+  "name": "php-to-torrent",
+  "version": "0.1.0",
+  "description": "Change file name that has .php extension to .torrent extension",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^5.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teerasej Jiraphatchandej <teerasej@gmail.com>",
+  "license": "ISC"
+}
